@@ -1,0 +1,6 @@
+-- SELECIONA BANCO DE DADOS
+USE ContosoRetailDW
+
+-- SELECIONA OS DADOS
+SELECT ColorName,UnitPrice
+FROM DimProduct
